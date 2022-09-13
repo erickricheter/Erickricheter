@@ -1,10 +1,7 @@
-- printf("Hi, I’m @Erickricheter");
-- printf("I’m interested in programming and learning programing");
-- printf("I’m currently learning database, javascript and c#");
-- printf("I’m looking to collaborate on jobs where I can gain experience and learn more and more about this area");
-- if(you are interessed on my profile){
-    printf("Find me on - erickricheter@hotmail.com -")
-}
-- thank you so much for reading this far, have a good day! 
+👋Hey! I’m @Erickricheter
+💻I'm a junior programmer
+📚I currently work with Javascript, Html, Css - and I know a few more things from college
+🏫I am studying Software Analysis and Development
+🕯️And that's why most of my commits will be college projects, activities and exercises
 
 
