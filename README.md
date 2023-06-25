@@ -16,5 +16,5 @@
 I am passionate about technology and always striving to learn more about this world and self-develop. If you want to get to know me better, just get in touch!
 
 ## Take a look at my main projects:
-- [Weather App](https://weather-app-teal-nine.vercel.app)
+- [Weather App](https://github.com/erickricheter/Weather-App)
 - [React e-commerce](https://github.com/erickricheter/Projeto-Ecommerce)
